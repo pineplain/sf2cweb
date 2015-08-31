@@ -1,0 +1,11 @@
+#holder {
+    width: 100%;
+    height: 600px;
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.link-tools .tool-remove {
+    display: none;
+}
